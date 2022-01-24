@@ -1,0 +1,9 @@
+train: /content/drive/MyDrive/cv_project/Data/det/images/train/
+val:  /content/drive/MyDrive/cv_project/Data/det/images/val/
+
+
+# number of classes
+nc: 2
+
+# class names
+names: ["Car","Pedestrian"]
